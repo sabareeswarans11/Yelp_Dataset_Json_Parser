@@ -26,7 +26,7 @@ https://www.yelp.com/dataset/download
 
 <img width="1792" alt="Screenshot 2022-02-27 at 1 00 13 AM" src="https://user-images.githubusercontent.com/94094997/155875602-864edfd3-b3c4-43c8-b71d-f918ff3328e3.png">
 
-#Business Data stored in Relational tables
+# Business Data stored in Relational tables
 
 <img width="1684" alt="Screenshot 2022-02-27 at 1 57 17 AM" src="https://user-images.githubusercontent.com/94094997/155875635-beaddda2-6a70-47c2-90b9-1e17ad226afd.png">
 
