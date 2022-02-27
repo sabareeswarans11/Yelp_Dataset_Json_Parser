@@ -12,7 +12,7 @@ Transforming Big Data in JSON (JavaScript Object Notation) Format as Semi-Struct
 	To have an association for each table or csv document, saving the business id in each csv record as Primary Key . in some case I have used business_id and one of its attributes of that table  both together as a primary key to avoid duplicated entry in database.
 	Used two separate python files for bulk insert into the database. I have used Padas DataFrame to wrap the csv data to MySQL .DataFrame handles big data files better than CSV_import. 
 
-#Dataset 
+# Dataset 
 
 Yelp Business Dataset of 100 and 200,000 records
 
