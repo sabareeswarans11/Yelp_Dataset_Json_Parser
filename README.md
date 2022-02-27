@@ -21,7 +21,7 @@ Yelp Business Dataset of 100 and 200,000 records
 # Link to download Dataset 
 https://www.yelp.com/dataset/download
 
-#Csv Files created
+# Csv Files created
 <img width="1792" alt="Screenshot 2022-02-27 at 1 02 12 AM" src="https://user-images.githubusercontent.com/94094997/155875609-fe9c1a53-4112-4cb4-b9bb-0bc2408c2b35.png">
 
 <img width="1792" alt="Screenshot 2022-02-27 at 1 00 13 AM" src="https://user-images.githubusercontent.com/94094997/155875602-864edfd3-b3c4-43c8-b71d-f918ff3328e3.png">
@@ -29,5 +29,10 @@ https://www.yelp.com/dataset/download
 #Business Data stored in Relational tables
 
 <img width="1684" alt="Screenshot 2022-02-27 at 1 57 17 AM" src="https://user-images.githubusercontent.com/94094997/155875635-beaddda2-6a70-47c2-90b9-1e17ad226afd.png">
+
+# Retrieving some  infromation from database
+
+<img width="1740" alt="EC" src="https://user-images.githubusercontent.com/94094997/155875756-d9e9e8ff-4d9a-4d7f-a180-38b5b6269146.png">
+
 
 
