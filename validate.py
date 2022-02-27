@@ -16,7 +16,7 @@ def validateExtraCreditDataset(working_directory):
             obj = json.loads(line)
             business_list.append(obj)
 
-    validated_json_filename = working_directory + '/Dataset_ExrtaCredit/validFormat/ExtracreditData.json'l
+    validated_json_filename = working_directory + '/Dataset_ExrtaCredit/validFormat/ExtracreditData.json'
 
     # Storing the validated json Dataset for Parsing
     with open(validated_json_filename, 'w') as outfile:
